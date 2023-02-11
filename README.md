@@ -1,4 +1,5 @@
 # front-sciencehub
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Insatiable thirst for discovery
+>>>>>>> 2cfed0728adfbde06768e2a158d2c25409161ab3
